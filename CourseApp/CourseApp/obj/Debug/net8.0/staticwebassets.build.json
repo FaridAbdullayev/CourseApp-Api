@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "/RlKNO2Z5KuKMP70N9fM78uQJR+7Py6DcVBigpeqalw=",
+  "Source": "CourseApp",
+  "BasePath": "_content/CourseApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CourseApp\\wwwroot",
+      "Source": "CourseApp",
+      "ContentRoot": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework3\\CourseApp\\CourseApp\\wwwroot\\",
+      "BasePath": "_content/CourseApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework3\\CourseApp\\CourseApp\\wwwroot\\image\\cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg",
+      "SourceId": "CourseApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework3\\CourseApp\\CourseApp\\wwwroot\\",
+      "BasePath": "_content/CourseApp",
+      "RelativePath": "image/cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg"
+    }
+  ]
+}

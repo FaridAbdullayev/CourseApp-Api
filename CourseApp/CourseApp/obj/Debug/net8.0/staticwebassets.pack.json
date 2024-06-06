@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework3\\CourseApp\\CourseApp\\wwwroot\\image\\cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg",
+      "PackagePath": "staticwebassets\\image\\cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CourseApp.props",
+      "PackagePath": "build\\CourseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseApp.props",
+      "PackagePath": "buildMultiTargeting\\CourseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CourseApp.props",
+      "PackagePath": "buildTransitive\\CourseApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
